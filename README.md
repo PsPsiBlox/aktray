@@ -1,6 +1,6 @@
 # icetray3
 
-ROBLOX JAILBREAK SCRIPT "ICE TRAY V3"
+ROBLOX JAILBREAK SCRIPT "AK TRAY V3"
 
 game: https://www.roblox.com/games/606849621/Jailbreak
 
