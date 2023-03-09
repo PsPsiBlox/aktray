@@ -12,4 +12,4 @@ other exploits may or may not work.
 
 💀 We ban cheaters. Don't cheat!
 
-alex9#0001
+credit :alex9#0001
